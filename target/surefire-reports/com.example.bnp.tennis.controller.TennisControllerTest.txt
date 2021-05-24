@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.bnp.tennis.controller.TennisControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.068 s <<< FAILURE! - in com.example.bnp.tennis.controller.TennisControllerTest
+cantCreateTwoMatch  Time elapsed: 0.028 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.example.bnp.tennis.controller.TennisControllerTest.cantCreateTwoMatch(TennisControllerTest.java:60)
+
